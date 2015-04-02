@@ -17,3 +17,6 @@ There's a detailed tutorial on how to build this project at: http://fredguest.co
 Demo
 ---------------
 There's a live demo of the finished project at: https://blabs.herokuapp.com
+
+
+* Progress checkpoint for "The First JSON Endpoint"
