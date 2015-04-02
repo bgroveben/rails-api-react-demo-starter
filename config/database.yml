@@ -1,5 +1,5 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: blabber_development
+  database: rails-api-react-demo-starter_development
   pool: 5
