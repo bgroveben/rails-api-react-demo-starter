@@ -19,4 +19,4 @@ Demo
 There's a live demo of the finished project at: https://blabs.herokuapp.com
 
 
-* Progress checkpoint for "The First JSON Endpoint"
+* Hit a snag when I ran 'npm run devserve'.
